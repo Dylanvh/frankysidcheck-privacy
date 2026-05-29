@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support - FrankysIDCheck</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }
+        h1 { border-bottom: 2px solid #eee; padding-bottom: 10px; }
+    </style>
+</head>
+<body>
+
+    <h1>FrankysIDCheck Support</h1>
+    <p>Heeft u vragen, opmerkingen of loopt u tegen problemen aan bij het gebruik van <strong>FrankysIDCheck</strong>?</p>
+    <p>Neem dan gerust contact op door een e-mail te sturen naar:</p>
+    <p><strong>[JOUW E-MAILADRES]</strong></p>
+    <p>We proberen zo snel mogelijk op uw bericht te reageren.</p>
+
+</body>
+</html>
